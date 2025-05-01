@@ -1,1 +1,2 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&base=10)
+![Profile view counter](https://komarev.com/ghpvc/?username=your-username&count=0)
+
